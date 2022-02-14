@@ -11,4 +11,30 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="glide_text">Glide - Image Loading Library by BumpTech</string>
+    <string name="load_app_text">LoadApp - Current repository by Udacity</string>
+    <string name="retrofit_text">Retrofit - Type-safe HTTP client for Android and Java by Square, Inc.</string>
+    <string name="file_name_title">File name:</string>
+    <string name="status_title">Status:</string>
+    <string name="file_name">Glide - Image Loading Library by BumpTech</string>
+    <string name="status">Success</string>
+    <string name="cloud_download_image">Cloud with downward pointed arrow in the center</string>
+    <string name="no_repo_selected">Please select the file to download</string>
+    <string name="load_app_download_channel_id" translatable="false">load_app_download_channel_id</string>
+    <string name="load_app_download_channel_name" translatable="true">load_app_download_channel</string>
+
+    <string name="git_glide_repo_url">https://github.com/bumptech/glide</string>
+    <string name="git_udacity_repo_url">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter</string>
+    <string name="git_retrofit_repo_url">https://github.com/square/retrofit</string>
+    <string name="glideFileName">Glide</string>
+    <string name="loadAppFileName">LoadApp</string>
+    <string name="retrofitFileName">Retrofit</string>
+
+    <string name="ok">OK</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+
+    <string name="snooze">Snooze</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="show_details">Show Details</string>
 </resources>
