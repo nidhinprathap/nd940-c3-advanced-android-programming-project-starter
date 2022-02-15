@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="LoadingButton">
-        <attr name="text" format="string" />
-        <attr name="buttonBackgroundColor" format="string" />
+        <attr name="progressBarColor" format="color" />
+        <attr name="buttonDefaultColor" format="color" />
+        <attr name="btnProgressColor" format="color" />
     </declare-styleable>
 </resources>
